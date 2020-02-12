@@ -42,7 +42,6 @@ def total_gross(source)
   inner_index +=1
   end
   total
-  end
 end
 
 
